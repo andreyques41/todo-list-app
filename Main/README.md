@@ -1,6 +1,11 @@
-# To-Do List Application
+# DailyDrive - To-Do List Application
 
-A modular task management application with clean architecture and modern JavaScript practices.
+> A modular task management application with clean architecture and modern JavaScript practices
+
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | **GitHub**: [andreyques41/todo-list-app](https://github.com/andreyques41/todo-list-app)
+
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 📁 Project Structure
 
@@ -96,3 +101,9 @@ Open `main.html` in a web browser. The application will automatically:
 4. Set up event listeners and interactions
 
 All task data persists locally and can sync with external APIs when configured.
+
+---
+
+## 📄 License
+
+MIT License - See [LICENSE](../LICENSE) for details.
