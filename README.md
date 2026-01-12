@@ -2,7 +2,7 @@
 
 Frontend application demonstrating modular JavaScript architecture and modern build tools.
 
-**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Backend Systems & AI-Assisted Development
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Full-Stack Development & AI Workflows
 
 ---
 
